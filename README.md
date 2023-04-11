@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Valeriy</h1>
 <h3 align="center">I`m fullstack developer from Belarus</h3>
 
@@ -9,12 +7,18 @@
 
 - 🌱 I’m currently learning **Web frameworks, and ended college.**
 
+- I can create API on languages [Java and NodeJS (with express or default http)](Java and NodeJS (with express or default http))
+
+- I learning SQL language on databases: [MySQL and MSSQL](MySQL and MSSQL)
+
 - Now, I specialize in **react, express libs.**
+
+- First my specialization was a **C# and Java languages, but now I placed emphasis on JavaScript and it libraries/frameworks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/valer0chka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valer0chka_" height="30" width="40" /></a>
-<a href="https://discord.gg/Valer)chka#2077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Valer)chka#2077" height="30" width="40" /></a>
+<a href="https://discord.gg/Valer0chka#2077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Valer0chka#2077" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
