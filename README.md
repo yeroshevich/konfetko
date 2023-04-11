@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web frameworks, and ended college.**
 
-- I can create API on languages [Java and NodeJS (with express or default http)](Java and NodeJS (with express or default http))
+- I can create API on languages Java and NodeJS (with express or default http)
 
 - I learning SQL language on databases: [MySQL and MSSQL](MySQL and MSSQL)
 
